@@ -1,0 +1,41 @@
+html{
+	height: 100%;
+}
+
+body{
+	background: url(../1.jpg) no-repeat;
+	margin-top: 20px;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.leaveMargin{
+	padding-right: 100px;
+	outline: none;
+}
+
+.navbar-header, .nav, .navbar, .container {
+	outline: none;
+}
+
+h1{
+	color:white;
+}
+
+.panel-heading{
+	background-color: gainsboro;
+	outline: none;
+}
+
+.panel-body{
+	background-color: lightgray;
+	outline: none;
+}
+
+.white{
+	color:white;
+	outline: none;
+	font-size: 1.5em;
+}
